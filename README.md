@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=#3498DB&size=30&lines=¡Hola,+Soy+Luisa!;Desarrolladora+full+stack...;Diseñadora+gráfica)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3498DB&size=30&lines=¡Hola,+Soy+Luisa!;Desarrolladora+full+stack...;Diseñadora+gráfica)](https://git.io/typing-svg)
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -9,7 +10,7 @@
 </a>
 
 </div>
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
+
 
 Here are some ideas to get you started:
 
