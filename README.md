@@ -1,5 +1,5 @@
-
-<img style=“display: block; margin-left: auto; margin-right: auto;” src=“https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3498DB&size=30&lines=¡Hola,+Soy+Luisa!;Desarrolladora+full+stack…;Diseñadora+gráfica” alt=“Typing SVG”> (https://git.io/typing-svg)
+<div style=“text-align: center;”>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3498DB&size=30&lines=¡Hola,+Soy+Luisa!;Desarrolladora+full+stack...;Diseñadora+gráfica)](https://git.io/typing-svg) </div>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
