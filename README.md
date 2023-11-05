@@ -4,6 +4,9 @@
   </ul>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=900C3F&size=30&lines=Hola!+Soy+Luisa!;Desarrolladora+full+stack...;Diseñadora+gráfica+🇵🇰)](https://git.io/typing-svg)
+
+
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
