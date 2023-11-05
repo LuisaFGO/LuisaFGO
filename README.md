@@ -1,5 +1,3 @@
-### Hola 👋 , Soy Luisa
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, Soy Luisa </h1></summary>
