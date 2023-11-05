@@ -1,13 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=900C3F&size=30&lines=¡Hola,+Soy+Luisa!;Desarrolladora+full+stack...;Diseñadora+gráfica)](https://git.io/typing-svg) 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2E86C1&size=30&lines=¡Hola,+Soy+Luisa!;Desarrolladora+full+stack...;Diseñadora+gráfica)](https://git.io/typing-svg) 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-
 <a href="https://linkedin.com/in/luisa-giraldo/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=900C3F&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=2E86C1&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
 </div>
 
 
