@@ -7,6 +7,8 @@
 
   <P>Soy desarrolladora full stack con conocimientos en diseño gráfico, una apasionada por el aprendizaje, por crear y proponer. Me impulso constantemente a salir de mi zona de confort y superarme. Mi objetivo es seguir mejorando mis habilidades y desarrollar otras nuevas, realizando poyectos, adquiriedno experiencias y capacitandome. <P>
 Algunos de mis hobbies: 🎨 🎻 🐶 
+    <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
   <Br>
   <h3>Tecnologías</h3> 
  <Br><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
