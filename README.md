@@ -1,8 +1,7 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola,+soy+Luisa!+%F0%9F%91%8B;Full+Stack+Developer;Diseñadora+Gráfica;Problem+Solver;Open-Source;Entusiasta" alt="Headline" />
   
- <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+
 
 <h3>Algunos de mis proyectos 👾</h3>
 <Br> 
