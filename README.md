@@ -12,7 +12,7 @@
   <h3>Algunos de mis proyectos 👾</h3>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=HENRYPF)](https://github.com/fernandoiosono/HENRYPF)
+[![ReadMe Card](https://github.com/fernandoiosono/HENRYPF)](https://github.com/fernandoiosono/HENRYPF)
 
 <Br>
 <Br>
