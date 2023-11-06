@@ -57,7 +57,7 @@ Algunos de mis hobbies: 🎨 🎻 🐶
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/> 
   </a>
    <a href="https://www.adobe.com" target="_blank">
-    <img src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white" alt="Adobe"/> 
+    <img src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/> 
   </a>
   
   <h3>Algunos de mis proyectos 👾</h3>
