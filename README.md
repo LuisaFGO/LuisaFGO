@@ -2,10 +2,10 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola,+soy+Luisa!+%F0%9F%91%8B;Full+Stack+Developer;Diseñadora+Gráfica;Problem+Solver;Open-Source;Entusiasta" alt="Headline" />
   
 <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-
+<Br>
+<hr>
 <h3>Algunos de mis proyectos 👾</h3>
 <Br> 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandoiosono&repo=HENRYPF)](https://github.com/fernandoiosono/HENRYPF)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisaFGO&repo=PI-Videogames-main)](https://github.com/LuisaFGO/PI-Videogames-main)
 
