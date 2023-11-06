@@ -11,6 +11,8 @@ Algunos de mis hobbies: 🎨 🎻 🐶
   <Br>
   <h3>Tecnologías</h3> 
  <Br><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+ ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
         
   <h3>Algunos de mis proyectos 👾</h3>
 <Br>
