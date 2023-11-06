@@ -6,7 +6,7 @@
        alt="snake" /></a>
        
   <a href="https://linkedin.com/in/luisa-giraldo/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=2E86C1&style=for-the- 
+  <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=3498DB&style=for-the- 
    badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
