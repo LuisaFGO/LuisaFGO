@@ -9,14 +9,14 @@
   <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=3498DB&style=for-the- 
    badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <h1>Algunos de mis proyectos 👾</h1>
+  <h3>Algunos de mis proyectos 👾</h3>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=HENRYPF)](https://github.com/fernandoiosono/HENRYPF)
 
 <Br>
 <Br>
-<h1>Thank You! 🌼 </h1>
+<h3>Thank You! 🌼 </h3>
 <Br>
 </div>
 
