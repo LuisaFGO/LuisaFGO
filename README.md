@@ -30,4 +30,3 @@ Algunos de mis hobbies: 🎨 🎻 🐶
 <h3>Thank You 🌼 </h3>
 <Br>
 </div>
-</div>
