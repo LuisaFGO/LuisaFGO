@@ -53,7 +53,7 @@ Algunos de mis hobbies: 🎨 🎻 🐶
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-  ![Next.js](https://img.shields.io/badge/-Next.js-FAFAFA?style=for-the-badge&logo=next.js&logoColor=333)
+  
   <h3>Algunos de mis proyectos 👾</h3>
 <Br>
   
