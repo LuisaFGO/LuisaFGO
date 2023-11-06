@@ -12,7 +12,8 @@
   <h3>Algunos de mis proyectos 👾</h3>
 <Br>
   
-[![ReadMe Card](https://github.com/fernandoiosono/HENRYPF)](https://github.com/fernandoiosono/HENRYPF)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandoiosono&repo=HENRYPF)](https://github.com/fernandoiosono/HENRYPF)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisaFGO&repo=PI-Videogames-main)](https://github.com/LuisaFGO/PI-Videogames-main)
 
 <Br>
 <Br>
