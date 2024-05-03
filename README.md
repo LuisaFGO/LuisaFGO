@@ -59,7 +59,7 @@ Algunos de mis hobbies: 🎨 🎻 🐶 🏋
   
   <h3>Algunos de mis proyectos 👾</h3>
 <Br>
-<a href="https://gitlab.innevo.cl/LuisaFG" target="blank"></a>
+<a href="https://gitlab.innevo.cl/LuisaFG" target="blank"><img align="center" src="https://img.shields.io/badge/LuisaFGO-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandoiosono&repo=HENRYPF)](https://github.com/fernandoiosono/HENRYPF)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisaFGO&repo=PI-Videogames-main)](https://github.com/LuisaFGO/PI-Videogames-main)
